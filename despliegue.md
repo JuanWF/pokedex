@@ -54,5 +54,9 @@ El proyecto fue desarrollado usando la librería de JavaScript [Angular](https:/
 15. presionar **"crear"**, static web app se encargara automaticamente build y el despliegue de la aplicacion.
 16. Los cambios que se hagan en el repositorio se actualizaran en tiempo real en azure.
 
+## Esta es la URL publica del despliegue de la aplicacion por azure
+
+https://agreeable-bush-0b2fb3310.6.azurestaticapps.net
+
 
 
